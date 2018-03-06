@@ -1,0 +1,16 @@
+Jcoinche game
+
+For start the server :
+
+java -jar target/jcoinche-server.jar 'PORT'
+PORT default is 4242
+
+
+For start the client :
+
+java -jar target/jcoinche-client.jar 'IP' 'PORT'
+IP default is 127.0.0.1 (localhost)
+PORT default is 4242
+
+
+Enjoy your game !
